@@ -1,1 +1,11 @@
 ﻿_site
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.bak
+.sass-cache/
+.bundle/
+vendor/
+node_modules/
+.jekyll-cache/
