@@ -2,6 +2,8 @@
 layout: post
 ---
 
+![1.54" SSD1681 ePaper Display](/assets/images/parts-haul-epd.jpg)
+
 Here's my Aliexpress haul from the previous post:
 
 #### 1. Seeed XIAO nRF54L15
